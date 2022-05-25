@@ -5,12 +5,16 @@
         {
           "firstName": "Nicola",
           "lastName": "Bartolomei",
-          "createdDate": "2019-01-01",
-          "userType": "Company",
-          "location": "Turkey",
-          "status": "Active",
           "contactInfo": "+90 554 554 554",
+          "location": "Turkey",
+          "userType": "Company",
+          "status": "Active",
           "ofAppointments": ["example1", "example2"]
+         
+          
+         
+          
+         
         }
       
        
