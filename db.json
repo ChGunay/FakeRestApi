@@ -1,7 +1,9 @@
 {
   
 
-    "user": [
+    "user": {
+      "results":
+     [
         {
           "firstName": "Nicola",
           "lastName": "Bartolomei",
@@ -23,12 +25,9 @@
           "userType": "Company",
           "status": "Active",
           "ofAppointments": ["example1", "example2"]
-         
-          
-         
-          
-         
-        },        {
+       
+        },    
+        {
           "firstName": "Nicola",
           "lastName": "Bartolomei",
           "contactInfo": "+90 554 554 554",
@@ -43,7 +42,8 @@
          
         }
       
-      ]
+      ],
+      "total": 3
       
-   
+    }
   }
