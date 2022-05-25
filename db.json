@@ -1,25 +1,7 @@
 {
-    "users": [
-        {
-          "firstName": "Nicola",
-          "lastName": "Bartolomei",
-          "createdDate": "2019-01-01",
-          "userType": "Company",
-          "location": "Turkey",
-          "status": "Active",
-          "contactInfo": "+90 554 554 554",
-          "ofAppointments": ["example1", "example2"]
-        },
-        {
-          "firstName": "Nicola",
-          "lastName": "Bartolomei",
-          "createdDate": "2019-01-01",
-          "userType": "Company",
-          "location": "Turkey",
-          "status": "Active",
-          "contactInfo": "+90 554 554 554",
-          "ofAppointments": ["example1", "example2"]
-        },
+  
+
+    "user": 
         {
           "firstName": "Nicola",
           "lastName": "Bartolomei",
@@ -30,7 +12,8 @@
           "contactInfo": "+90 554 554 554",
           "ofAppointments": ["example1", "example2"]
         }
+      
        
-      ]
-    
+      
+   
   }
