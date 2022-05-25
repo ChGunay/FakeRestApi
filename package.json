@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ChGunay/FakeRestApi#readme",
   "dependencies": {
+    "heroku": "^7.60.2",
     "json-server": "^0.17.0"
   }
 }
