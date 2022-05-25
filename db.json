@@ -7,40 +7,124 @@
         {
           "firstName": "Nicola",
           "lastName": "Bartolomei",
+          "createdDate": "2017-01-01",
           "contactInfo": "+90 554 554 554",
           "location": "Turkey",
           "userType": "Company",
           "status": "Active",
-          "ofAppointments": ["example1", "example2"]
+          "ofAppointments": [{
+            "appointmentId": "1",
+            "appointmentDate": "2019-01-01",
+            "appointmentTime": "10:00",
+            "appointmentStatus": "Pending",
+            "appointmentType": "Consultation",
+            "appointmentDescription": "Consultation",
+            "appointmentPrice": "100",
+            "appointmentLocation": "Istanbul",
+            "appointmentDoctor": "Dr. Mehmet",
+            "appointmentDoctorId": "1",
+            "appointmentPatient": "Dr. Mehmet",
+            "appointmentPatientId": "1",
+            "appointmentPatientEmail": "example.com"
+          },
+          {
+            "appointmentId": "2",
+            "appointmentDate": "2019-01-01",
+            "appointmentTime": "10:00",
+            "appointmentStatus": "Pending",
+            "appointmentType": "Consultation",
+            "appointmentDescription": "Consultation",
+            "appointmentPrice": "100",
+            "appointmentLocation": "Istanbul",
+            "appointmentDoctor": "Dr. Mehmet",
+            "appointmentDoctorId": "1",
+            "appointmentPatient": "Dr. Mehmet",
+            "appointmentPatientId": "1",
+            "appointmentPatientEmail": "example.com"
+          }]
          
-          
-         
-          
-         
-        },        {
-          "firstName": "Nicola",
-          "lastName": "Bartolomei",
-          "contactInfo": "+90 554 554 554",
-          "location": "Turkey",
-          "userType": "Company",
-          "status": "Active",
-          "ofAppointments": ["example1", "example2"]
-       
-        },    
+        },
         {
           "firstName": "Nicola",
           "lastName": "Bartolomei",
+          "createdDate": "2017-01-01",
           "contactInfo": "+90 554 554 554",
           "location": "Turkey",
           "userType": "Company",
           "status": "Active",
-          "ofAppointments": ["example1", "example2"]
+          "ofAppointments": [{
+            "appointmentId": "1",
+            "appointmentDate": "2019-01-01",
+            "appointmentTime": "10:00",
+            "appointmentStatus": "Pending",
+            "appointmentType": "Consultation",
+            "appointmentDescription": "Consultation",
+            "appointmentPrice": "100",
+            "appointmentLocation": "Istanbul",
+            "appointmentDoctor": "Dr. Mehmet",
+            "appointmentDoctorId": "1",
+            "appointmentPatient": "Dr. Mehmet",
+            "appointmentPatientId": "1",
+            "appointmentPatientEmail": "example.com"
+          },
+          {
+            "appointmentId": "2",
+            "appointmentDate": "2019-01-01",
+            "appointmentTime": "10:00",
+            "appointmentStatus": "Pending",
+            "appointmentType": "Consultation",
+            "appointmentDescription": "Consultation",
+            "appointmentPrice": "100",
+            "appointmentLocation": "Istanbul",
+            "appointmentDoctor": "Dr. Mehmet",
+            "appointmentDoctorId": "1",
+            "appointmentPatient": "Dr. Mehmet",
+            "appointmentPatientId": "1",
+            "appointmentPatientEmail": "example.com"
+          }]
          
-          
-         
-          
+        }, 
+        {
+          "firstName": "Nicola",
+          "lastName": "Bartolomei",
+          "createdDate": "2017-01-01",
+          "contactInfo": "+90 554 554 554",
+          "location": "Turkey",
+          "userType": "Company",
+          "status": "Active",
+          "ofAppointments": [{
+            "appointmentId": "1",
+            "appointmentDate": "2019-01-01",
+            "appointmentTime": "10:00",
+            "appointmentStatus": "Pending",
+            "appointmentType": "Consultation",
+            "appointmentDescription": "Consultation",
+            "appointmentPrice": "100",
+            "appointmentLocation": "Istanbul",
+            "appointmentDoctor": "Dr. Mehmet",
+            "appointmentDoctorId": "1",
+            "appointmentPatient": "Dr. Mehmet",
+            "appointmentPatientId": "1",
+            "appointmentPatientEmail": "example.com"
+          },
+          {
+            "appointmentId": "2",
+            "appointmentDate": "2019-01-01",
+            "appointmentTime": "10:00",
+            "appointmentStatus": "Pending",
+            "appointmentType": "Consultation",
+            "appointmentDescription": "Consultation",
+            "appointmentPrice": "100",
+            "appointmentLocation": "Istanbul",
+            "appointmentDoctor": "Dr. Mehmet",
+            "appointmentDoctorId": "1",
+            "appointmentPatient": "Dr. Mehmet",
+            "appointmentPatientId": "1",
+            "appointmentPatientEmail": "example.com"
+          }]
          
         }
+       
       
       ],
       "total": 3
