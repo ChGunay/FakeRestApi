@@ -1,0 +1,23 @@
+{
+  "name": "fakerestapi",
+  "version": "1.0.0",
+  "description": "fake rest api for testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChGunay/FakeRestApi.git"
+  },
+  "author": "chgunay3@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChGunay/FakeRestApi/issues"
+  },
+  "homepage": "https://github.com/ChGunay/FakeRestApi#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
