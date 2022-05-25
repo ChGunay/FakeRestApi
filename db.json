@@ -63,6 +63,17 @@
           "status": "Active",
           "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
          
+        },     {
+          "id": "5",
+          "firstName": "Nicola",
+          "lastName": "Bartolomei",
+          "createdDate": "2017-01-01",
+          "contactInfo": "+90 554 554 554",
+          "location": "Turkey",
+          "userType": "User",
+          "status": "Active",
+          "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
+         
         }
 
        
