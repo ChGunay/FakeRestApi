@@ -81,5 +81,17 @@
       ],
       "total": 6
       
+    },
+    "editedUser": {
+      "id": "1",
+      "firstName": "Nicola",
+      "lastName": "Bartolomei",
+      "createdDate": "2017-01-01",
+      "contactInfo": "+90 554 554 554",
+      "location": "Turkey",
+      "userType": "Company",
+      "status": "Active",
+      "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
+     
     }
   }
