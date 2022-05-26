@@ -83,7 +83,7 @@
       
     },
     "editedUser": {
-      "id": "1",
+      "id": 1,
       "firstName": "Nicola",
       "lastName": "Bartolomei",
       "createdDate": "2017-01-01",
