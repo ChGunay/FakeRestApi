@@ -18,8 +18,8 @@
         },
         {
           "id": "2",
-          "firstName": "Nicola",
-          "lastName": "Bartolomei",
+          "firstName": "John",
+          "lastName": "Doe",
           "createdDate": "2017-01-01",
           "contactInfo": "+90 554 554 554",
           "location": "Turkey",
@@ -29,61 +29,68 @@
          
         },
         {
-          "id":"3",
-          "firstName": "Nicola",
-          "lastName": "Bartolomei",
+          "id": "3",
+          "firstName": "Sam",
+          "lastName": "Smith",
           "createdDate": "2017-01-01",
           "contactInfo": "+90 554 554 554",
           "location": "Turkey",
-          "userType": "User",
+          "userType": "Company",
           "status": "Active",
           "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
          
         },
         {
-         "id":"4",
-          "firstName": "Nicola",
-          "lastName": "Bartolomei",
+          "id": "4",
+          "firstName": "Ali",
+          "lastName": "Khan",
           "createdDate": "2017-01-01",
           "contactInfo": "+90 554 554 554",
-          "location": "Turkey",
-          "userType": "User",
+          "location": "Usa",
+          "userType": "Doctor",
           "status": "Active",
-          "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
-         
+          "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
         },
         {
           "id": "5",
-          "firstName": "Nicola",
-          "lastName": "Bartolomei",
+          "firstName": "Jack",
+          "lastName": "Doe",
           "createdDate": "2017-01-01",
           "contactInfo": "+90 554 554 554",
-          "location": "Turkey",
-          "userType": "User",
+          "location": "Usa",
+          "userType": "Doctor",
           "status": "Active",
-          "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
-         
-        },     {
-          "id": "5",
-          "firstName": "Nicola",
-          "lastName": "Bartolomei",
+          "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
+        },
+        {
+          "id": "6",
+          "firstName": "Selin",
+          "lastName": "Smith",
           "createdDate": "2017-01-01",
           "contactInfo": "+90 554 554 554",
-          "location": "Turkey",
-          "userType": "User",
+          "location": "Usa",
+          "userType": "Doctor",
           "status": "Active",
-          "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
-         
+          "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
+        },
+        {
+          "id": "7",
+          "firstName": "Sam",
+          "lastName": "Khan",
+          "createdDate": "2017-01-01",
+          "contactInfo": "+90 554 554 554",
+          "location": "Usa",
+          "userType": "Doctor",
+          "status": "Active",
+          "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
         }
-
-       
       
       ],
       "total": 6
       
     },
-    "editedUser":[ {
-      "id": 1,
+    "editedUser":[     {
+      "id": "1",
       "firstName": "Nicola",
       "lastName": "Bartolomei",
       "createdDate": "2017-01-01",
@@ -95,9 +102,9 @@
      
     },
     {
-      "id": 2,
-      "firstName": "Nic",
-      "lastName": "Bartolomei",
+      "id": "2",
+      "firstName": "John",
+      "lastName": "Doe",
       "createdDate": "2017-01-01",
       "contactInfo": "+90 554 554 554",
       "location": "Turkey",
@@ -105,6 +112,62 @@
       "status": "Active",
       "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
      
+    },
+    {
+      "id": "3",
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "createdDate": "2017-01-01",
+      "contactInfo": "+90 554 554 554",
+      "location": "Turkey",
+      "userType": "Company",
+      "status": "Active",
+      "ofAppointments": ["Dr. Ali","Dr. John","Dr. Sam"]
+     
+    },
+    {
+      "id": "4",
+      "firstName": "Ali",
+      "lastName": "Khan",
+      "createdDate": "2017-01-01",
+      "contactInfo": "+90 554 554 554",
+      "location": "Usa",
+      "userType": "Doctor",
+      "status": "Active",
+      "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
+    },
+    {
+      "id": "5",
+      "firstName": "Jack",
+      "lastName": "Doe",
+      "createdDate": "2017-01-01",
+      "contactInfo": "+90 554 554 554",
+      "location": "Usa",
+      "userType": "Doctor",
+      "status": "Active",
+      "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
+    },
+    {
+      "id": "6",
+      "firstName": "Selin",
+      "lastName": "Smith",
+      "createdDate": "2017-01-01",
+      "contactInfo": "+90 554 554 554",
+      "location": "Usa",
+      "userType": "Doctor",
+      "status": "Active",
+      "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
+    },
+    {
+      "id": "7",
+      "firstName": "Sam",
+      "lastName": "Khan",
+      "createdDate": "2017-01-01",
+      "contactInfo": "+90 554 554 554",
+      "location": "Usa",
+      "userType": "Doctor",
+      "status": "Active",
+      "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
     }
   ]
   }
