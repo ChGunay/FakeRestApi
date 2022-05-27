@@ -169,5 +169,30 @@
       "status": "Active",
       "ofAppointments": ["Dr. jack","Dr. Selin","Dr. Sam"]
     }
-  ]
+  ],
+
+
+  "userProfiles": [{
+    "id": 1,
+    "email": "admin@example.com",
+    "password": "123456789",
+    "userType": "Admin"
+  },
+  {
+    "id": 2,
+    "email": "doctor@example.com",
+    "password": "123456789",
+    "userType": "Doctor"
+  },
+  {
+    "id": 3,
+    "email": "company@example.com",
+    "password": "123456789",
+    "userType": "Company"
+  }
+
+
+
+]
+
   }
