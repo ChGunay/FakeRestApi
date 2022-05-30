@@ -193,6 +193,41 @@
 
 
 
-]
-
+],
+"appointments": [{
+  "id": 1,
+  "patientFirstName": "Selin Yerebakan",
+  "doctorFirstName": "Volkan Sütçüoğlu",
+  "appointmentDate": "2017-01-01",
+  "appointmentTime": "10:00",
+  "appointmentStatus": "Active",
+  "appointmentNotes": "This is a test appointment"
+},
+{
+  "id": 2,
+  "patientFirstName": "Ali Cengiz",
+  "doctorFirstName": "Kerim Mısraoğlu",
+  "appointmentDate": "2017-01-01",
+  "appointmentTime": "10:00",
+  "appointmentStatus": "Active",
+  "appointmentNotes": "This is a test appointment"
+},
+{
+  "id": 3,
+  "patientFirstName": "Burhan Altintop",
+  "doctorFirstName": "Makbule Yıldırım",
+  "appointmentDate": "2017-01-01",
+  "appointmentTime": "10:00",
+  "appointmentStatus": "Active",
+  "appointmentNotes": "This is a test appointment"
+},
+{
+  "id":4 ,
+  "patientFirstName": "Aslı Onaran",
+  "doctorFirstName": "Cem Onaran",
+  "appointmentDate": "2017-01-01",
+  "appointmentTime": "10:00",
+  "appointmentStatus": "Active",
+  "appointmentNotes": "This is a test appointment"
+}]
   }
