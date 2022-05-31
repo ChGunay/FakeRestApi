@@ -3,90 +3,76 @@
 
     "doctor": {
       "results":
-                  [
-                    {
-                      "fullName": "Volkan Sütçüoğlu",
-                      "email": "example@gmail.com",
-                      "phone":"555 555 555",
-                      "location":"Turkey",
-                      "title": "Hearth Surgeon"
-                    },
-                    {
-                      "fullName": "Aslı Sütçüoğlu",
-                      "email": "example@gmail.com",
-                      "phone":"555 555 555",
-                      "location":"Turkey",
-                      "title": "Hearth Surgeon"
+        [{"id":1,"fullName":"Lawton Voss","email":"lvoss0@exblog.jp","location":"Turkey","title":"Support"},
+        {"id":2,"fullName":"Freddie Tettersell","email":"ftettersell1@hostgator.com","location":"Turkey","title":"Training"},
+        {"id":3,"fullName":"Valentin Sebyer","email":"vsebyer2@acquirethisname.com","location":"Turkey","title":"Support"},
+        {"id":4,"fullName":"Worthington Shiel","email":"wshiel3@nyu.edu","location":"Turkey","title":"Training"},
+        {"id":5,"fullName":"Keely Denisyuk","email":"kdenisyuk4@yellowbook.com","location":"Turkey","title":"Training"},
+        {"id":6,"fullName":"Godfree Spindler","email":"gspindler5@vistaprint.com","location":"Turkey","title":"Engineering"},
+        {"id":7,"fullName":"Ann-marie MacGow","email":"amacgow6@mozilla.com","location":"Turkey","title":"Marketing"},
+        {"id":8,"fullName":"Harrie Sharman","email":"hsharman7@barnesandnoble.com","location":"Turkey","title":"Business Development"},
+        {"id":9,"fullName":"Eleonora Finlan","email":"efinlan8@hao123.com","location":"Turkey","title":"Engineering"},
+        {"id":10,"fullName":"Emelda Reddings","email":"ereddings9@unicef.org","location":"Turkey","title":"Human Resources"},
+        {"id":11,"fullName":"Dallon Korpolak","email":"dkorpolaka@google.co.uk","location":"Turkey","title":"Research and Development"},
+        {"id":12,"fullName":"Egon Blow","email":"eblowb@geocities.jp","location":"Turkey","title":"Product Management"},
+        {"id":13,"fullName":"Seymour Benning","email":"sbenningc@springer.com","location":"Turkey","title":"Support"},
+        {"id":14,"fullName":"Raquela Pardal","email":"rpardald@wired.com","location":"Turkey","title":"Training"},
+        {"id":15,"fullName":"Obadiah Skone","email":"oskonee@slate.com","location":"Turkey","title":"Research and Development"},
+        {"id":16,"fullName":"Bev Amer","email":"bamerf@domainmarket.com","location":"Turkey","title":"Product Management"},
+        {"id":17,"fullName":"Nelia Pentecost","email":"npentecostg@kickstarter.com","location":"Turkey","title":"Marketing"},
+        {"id":18,"fullName":"Giulia Ocheltree","email":"gocheltreeh@latimes.com","location":"Turkey","title":"Sales"},
+        {"id":19,"fullName":"Pansy Troubridge","email":"ptroubridgei@hp.com","location":"Turkey","title":"Marketing"},
+        {"id":20,"fullName":"Johann Leglise","email":"jleglisej@ezinearticles.com","location":"Turkey","title":"Accounting"}]},
 
-                    },
-                    {
-                      "fullName": "Cem Onaran",
-                      "email": "example@gmail.com",
-                      "phone":"555 555 555",
-                      "location":"Turkey",
-                      "title": "Hearth Surgeon"
-                    }
+    "patient": {
+      "results":
+       
+        [{"id":1,"fullName":"Tyne Brattell","email":"tbrattell0@cbsnews.com","phone":"(416) 2640397","gender":"Female","insurance":"Business Development"},
+          {"id":2,"fullName":"Franny Bracchi","email":"fbracchi1@ibm.com","phone":"(867) 1135727","gender":"Male","insurance":"Engineering"},
+          {"id":3,"fullName":"Worthington Neylon","email":"wneylon2@irs.gov","phone":"(485) 7051300","gender":"Male","insurance":"Marketing"},
+          {"id":4,"fullName":"Luigi Mitchel","email":"lmitchel3@dailymail.co.uk","phone":"(247) 7310993","gender":"Male","insurance":"Human Resources"},
+          {"id":5,"fullName":"Amy Ettels","email":"aettels4@github.com","phone":"(309) 4805935","gender":"Female","insurance":"Marketing"},
+          {"id":6,"fullName":"Thorsten Wyd","email":"twyd5@google.de","phone":"(140) 7297903","gender":"Male","insurance":"Services"},
+          {"id":7,"fullName":"Lazarus Margetts","email":"lmargetts6@eventbrite.com","phone":"(364) 8469725","gender":"Male","insurance":"Sales"},
+          {"id":8,"fullName":"Emelita Larkworthy","email":"elarkworthy7@elegantthemes.com","phone":"(482) 4651349","gender":"Female","insurance":"Sales"},
+          {"id":9,"fullName":"Bidget Duval","email":"bduval8@twitter.com","phone":"(539) 6941961","gender":"Female","insurance":"Support"},
+          {"id":10,"fullName":"Charlie Glancey","email":"cglancey9@abc.net.au","phone":"(862) 7515669","gender":"Male","insurance":"Accounting"},
+          {"id":11,"fullName":"Ernie Checklin","email":"echecklina@auda.org.au","phone":"(575) 1863470","gender":"Male","insurance":"Accounting"},
+          {"id":12,"fullName":"Rayshell Matveichev","email":"rmatveichevb@phoca.cz","phone":"(376) 5022030","gender":"Female","insurance":"Research and Development"},
+          {"id":13,"fullName":"Gwenora Grishenkov","email":"ggrishenkovc@goo.ne.jp","phone":"(972) 9986605","gender":"Female","insurance":"Marketing"},
+          {"id":14,"fullName":"Rhodia Corah","email":"rcorahd@angelfire.com","phone":"(656) 3740827","gender":"Polygender","insurance":"Product Management"},
+          {"id":15,"fullName":"Sibilla Pulford","email":"spulforde@pinterest.com","phone":"(265) 1308820","gender":"Female","insurance":"Services"},
+          {"id":16,"fullName":"Annis Goodfield","email":"agoodfieldf@sciencedirect.com","phone":"(806) 6765180","gender":"Female","insurance":"Sales"},
+          {"id":17,"fullName":"Willis Culp","email":"wculpg@furl.net","phone":"(388) 4547350","gender":"Male","insurance":"Product Management"},
+          {"id":18,"fullName":"Patsy Grece","email":"pgreceh@histats.com","phone":"(369) 2812797","gender":"Female","insurance":"Product Management"},
+          {"id":19,"fullName":"Evangeline Sutcliffe","email":"esutcliffei@bigcartel.com","phone":"(261) 5966834","gender":"Female","insurance":"Services"},
+          {"id":20,"fullName":"Lissie MacDermott","email":"lmacdermottj@amazonaws.com","phone":"(513) 3343078","gender":"Agender","insurance":"Training"}]
+       
+
+        },
+        "institution" :{
+          "results":[{"id":1,"name":"Leexo","location":"Turkey","type":1},
+            {"id":2,"name":"Omba","location":"Turkey","type":1},
+            {"id":3,"name":"Devshare","location":"Turkey","type":1},
+            {"id":4,"name":"Topicware","location":"Turkey","type":3},
+            {"id":5,"name":"Dynabox","location":"Turkey","type":2},
+            {"id":6,"name":"Youopia","location":"Turkey","type":1},
+            {"id":7,"name":"DabZ","location":"Turkey","type":3},
+            {"id":8,"name":"Edgeify","location":"Turkey","type":1},
+            {"id":9,"name":"Bubblemix","location":"Turkey","type":2},
+            {"id":10,"name":"Jabbercube","location":"Turkey","type":1},
+            {"id":11,"name":"Mynte","location":"Turkey","type":1},
+            {"id":12,"name":"Wikizz","location":"Turkey","type":1},
+            {"id":13,"name":"Katz","location":"Turkey","type":1},
+            {"id":14,"name":"Vimbo","location":"Turkey","type":2},
+            {"id":15,"name":"Blogspan","location":"Turkey","type":2},
+            {"id":16,"name":"Rhynoodle","location":"Turkey","type":3},
+            {"id":17,"name":"Nlounge","location":"Turkey","type":2},
+            {"id":18,"name":"Oloo","location":"Turkey","type":2},
+            {"id":19,"name":"Divanoodle","location":"Turkey","type":1},
+            {"id":20,"name":"Yodoo","location":"Turkey","type":3}]
+        }
 
 
-  ]},
 
-
-  "userProfiles": [{
-    "id": 1,
-    "email": "admin@example.com",
-    "password": "123456789",
-    "userType": "Admin"
-  },
-  {
-    "id": 2,
-    "email": "doctor@example.com",
-    "password": "123456789",
-    "userType": "Doctor"
-  },
-  {
-    "id": 3,
-    "email": "company@example.com",
-    "password": "123456789",
-    "userType": "Company"
-  }
-
-
-
-],
-"appointments": [{
-  "id": 1,
-  "patientFirstName": "Selin Yerebakan",
-  "doctorFirstName": "Volkan Sütçüoğlu",
-  "appointmentDate": "2017-01-01",
-  "appointmentTime": "10:00",
-  "appointmentStatus": "Active",
-  "appointmentNotes": "This is a test appointment"
-},
-{
-  "id": 2,
-  "patientFirstName": "Ali Cengiz",
-  "doctorFirstName": "Kerim Mısraoğlu",
-  "appointmentDate": "2017-01-01",
-  "appointmentTime": "10:00",
-  "appointmentStatus": "Active",
-  "appointmentNotes": "This is a test appointment"
-},
-{
-  "id": 3,
-  "patientFirstName": "Burhan Altintop",
-  "doctorFirstName": "Makbule Yıldırım",
-  "appointmentDate": "2017-01-01",
-  "appointmentTime": "10:00",
-  "appointmentStatus": "Active",
-  "appointmentNotes": "This is a test appointment"
-},
-{
-  "id":4 ,
-  "patientFirstName": "Aslı Onaran",
-  "doctorFirstName": "Cem Onaran",
-  "appointmentDate": "2017-01-01",
-  "appointmentTime": "10:00",
-  "appointmentStatus": "Active",
-  "appointmentNotes": "This is a test appointment"
-}]
   }
